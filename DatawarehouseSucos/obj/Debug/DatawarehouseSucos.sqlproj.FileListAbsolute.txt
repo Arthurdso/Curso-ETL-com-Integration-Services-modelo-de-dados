@@ -1,0 +1,6 @@
+C:\Users\arthu\Desktop\Projetos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dacpac
+C:\Users\arthu\Desktop\Projetos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.dll
+C:\Users\arthu\Desktop\Projetos\DatawarehouseSucos\bin\Debug\DatawarehouseSucos.pdb
+C:\Users\arthu\Desktop\Projetos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.sqlproj.AssemblyReference.cache
+C:\Users\arthu\Desktop\Projetos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.dll
+C:\Users\arthu\Desktop\Projetos\DatawarehouseSucos\obj\Debug\DatawarehouseSucos.pdb
